@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Customer Relationship - Management](README.md)
+* [Customer Relationship Management](README.md)
